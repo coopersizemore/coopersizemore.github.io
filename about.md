@@ -21,8 +21,6 @@ I'm a Computer Science student at NC State graduating in the Spring of 2027.
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
 [jekyll]: https://jekyllrb.com
 
 [blog]: /

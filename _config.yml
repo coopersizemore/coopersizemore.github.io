@@ -359,10 +359,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                Cooper Sizemore
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/coopersizemore/
+#     - https://www.linkedin.com/in/cooper-sizemore/
 
 
 # Plugin Configs
